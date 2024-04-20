@@ -56,8 +56,8 @@ const keyPress = e => {
 		}, 100);
 
 		// 現在のタイプ数をカウント
-		total++;
-		typeCount.textContent = total;
+		// total++;
+		// typeCount.textContent = total;
 
 		return;
 	}
